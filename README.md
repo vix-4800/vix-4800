@@ -1,4 +1,5 @@
-### Hi there 👋
+###  Cybersecurity / Information Systems and Technologies Student
+Check out my blog if you want to know more about what I do / interested in
 
 <!--
 **vix-4800/vix-4800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
