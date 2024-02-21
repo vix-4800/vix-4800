@@ -19,15 +19,6 @@
 - 🛠️ I plan to study **Kubernetes, Jenkins, Redis and various other exciting technologies**
 
 <h3 align="left">
-  Social links:
-</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/12135085" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow logo" height="40" width="40" />
-</a>
-</p>
-
-<h3 align="left">
   Languages and Tools:
 </h3>
 <p align="left">
