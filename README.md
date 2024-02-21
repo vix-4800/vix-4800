@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vix-4800" alt="vix-4800" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula" alt="vix-4800" />
   </a>
 </p>
 
@@ -18,10 +18,12 @@
 
 - 🛠️ I plan to study **Kubernetes, Jenkins, and various other exciting technologies**
 
-<h3 align="left">Social links:</h3>
+<h3 align="left">
+  Social links:
+</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/12135085" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12135085" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow logo" height="40" width="40" />
 </a>
 </p>
 
