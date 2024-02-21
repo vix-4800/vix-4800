@@ -2,10 +2,10 @@
   Hi, I'm Anton 👋
 </h1>
 <h3 align="center">
-  I am a full-stack developer and Information Systems student.
+  I am a full-stack developer and Information Systems student
 </h3>
 <p align="center">
-  I specialize in PHP with a focus on the Laravel framework.
+  I specialize in PHP with a focus on the Laravel framework
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Laravel, Symfony and Docker**
 
-- 🛠️ I plan to study **Kubernetes, Jenkins, and various other exciting technologies**
+- 🛠️ I plan to study **Kubernetes, Jenkins, Redis and various other exciting technologies**
 
 <h3 align="left">
   Social links:
