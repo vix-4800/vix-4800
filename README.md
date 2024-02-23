@@ -16,7 +16,7 @@
 
 -   🌱 I’m currently learning **Laravel, Symfony and Docker**
 
--   🛠️ I plan to study **Kubernetes, Jenkins, Redis and various other exciting technologies**
+-   🛠️ I plan to study **Kubernetes, Jenkins, Redis** and various other exciting technologies
 
 <h3 align="left">
   Languages and Tools:
