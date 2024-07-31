@@ -14,7 +14,7 @@
   	</a>
 </p>
 
--   🌱 I’m currently learning **Laravel, Symfony and Docker**
+-   🌱 I’m currently working with **Laravel**, learning **Symfony and Docker**
 
 -   🛠️ I plan to study **Kubernetes, Jenkins, Redis** and various other exciting technologies
 
