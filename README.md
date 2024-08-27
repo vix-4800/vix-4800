@@ -14,9 +14,9 @@
   	</a>
 </p>
 
--   🌱 I’m currently working with **Laravel**, learning **Symfony and Docker**
+-   🌱 I’m currently working with **Laravel, Vue.js, MySQL and Docker** while also learning **Redis**
 
--   🛠️ I plan to study **Kubernetes, Jenkins, Redis** and various other exciting technologies
+-   🛠️ I plan to study **Symfony, PostgreSQL, GraphQL** and various other exciting technologies
 
 <h3 align="left">
   Languages and Tools:
