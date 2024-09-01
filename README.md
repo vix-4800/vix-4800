@@ -2,7 +2,7 @@
   Hi, I'm Anton 👋
 </h1>
 <h3 align="center">
-  I am a back-end developer and Information Systems student
+  I am a passionate full-stack developer
 </h3>
 <p align="center">
   I specialize in PHP with a focus on the Laravel framework
