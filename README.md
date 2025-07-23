@@ -1,62 +1,70 @@
-<h1 align="center">
-  Hi, I'm Anton 👋
-</h1>
-<h3 align="center">
-  I am a passionate full-stack developer
-</h3>
-<p align="center">
-  I specialize in PHP with a focus on the Laravel framework
-</p>
+<h1 align="center">Hi, I'm Anton 👋</h1>
+<h3 align="center">Full-Stack Developer — PHP / Laravel / Vue</h3>
+
+<p align="center">Building robust backends with Laravel, beautiful frontends with Vue/Nuxt, and efficient dev environments with Docker & Linux</p>
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-    	<img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula" alt="vix-4800" />
-  	</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula&margin-w=10&margin-h=10" alt="profile trophies" />
+  </a>
 </p>
 
--   🌱 I’m currently working with **Laravel, Vue.js, MySQL and Docker** while also learning **Redis**
+---
 
--   🛠️ I plan to study **Symfony, PostgreSQL, GraphQL** and various other exciting technologies
+### Tech Stack
 
-<h3 align="left">
-  Languages and Tools:
-</h3>
+#### Backend
 
-<div style='display:flex; column-gap:5px;'>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  	</a>
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    	<img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="50" height="50"/>
-  	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-    	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  	</a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  	</a>
-	<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    	<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/>
-  	</a>
-</div>
+<p align="left">
+	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+	<img src="https://img.shields.io/badge/Yii2-00559C?style=for-the-badge&logo=yii&logoColor=white" alt="Yii2"/>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+	<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
+	<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+	<img src="https://img.shields.io/badge/PHPUnit-6C2E91?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+</p>
+
+#### Frontend
+
+<p align="left">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+	<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+	<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
+	<img src="https://img.shields.io/badge/Pinia-2E7D32?style=for-the-badge&logo=pinia&logoColor=white" alt="Pinia"/>
+</p>
+
+#### DevOps & Tools
+
+<p align="left">
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+	<img src="https://img.shields.io/badge/Docker--Compose-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+	<img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+	<img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
+#### In Progress / Learning
+
+<p align="left">
+	<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+---
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vix-4800&show_icons=true&theme=dracula&hide=issues&count_private=true" alt="GitHub stats"/>
+</p>
