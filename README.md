@@ -15,7 +15,7 @@
 
 #### Backend
 
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 	<img src="https://img.shields.io/badge/Yii2-00559C?style=for-the-badge&logo=yii&logoColor=white" alt="Yii2"/>
@@ -27,7 +27,7 @@
 
 #### Frontend
 
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
@@ -39,7 +39,7 @@
 
 #### DevOps & Tools
 
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 	<img src="https://img.shields.io/badge/Docker--Compose-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
@@ -53,7 +53,7 @@
 
 #### In Progress / Learning
 
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
