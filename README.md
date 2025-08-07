@@ -3,17 +3,9 @@
 
 <p align="center">Building robust backends with Laravel, beautiful frontends with Vue/Nuxt, and efficient dev environments with Docker & Linux</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula&margin-w=10&margin-h=10" alt="profile trophies" />
-  </a>
-</p>
+## Tech Stack
 
----
-
-### Tech Stack
-
-#### Backend
+### Backend
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -25,7 +17,7 @@
 	<img src="https://img.shields.io/badge/PHPUnit-6C2E91?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
 </p>
 
-#### Frontend
+### Frontend
 
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -37,7 +29,7 @@
 	<img src="https://img.shields.io/badge/Pinia-2E7D32?style=for-the-badge&logo=pinia&logoColor=white" alt="Pinia"/>
 </p>
 
-#### DevOps & Tools
+### DevOps & Tools
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -51,7 +43,7 @@
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
-#### In Progress / Learning
+### In Progress / Learning
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
@@ -61,10 +53,15 @@
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
----
-
-###
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vix-4800&show_icons=true&theme=dracula&hide=issues&count_private=true" alt="GitHub stats"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula&margin-w=10&margin-h=10" alt="profile trophies" />
+	<img src="https://github-readme-stats.vercel.app/api?username=vix-4800&show_icons=true&theme=dracula&hide=issues&count_private=true" alt="GitHub stats"/>
+</p>
+
+## Leetcode
+
+<p align="center">
+	<img src="https://leetcard.jacoblin.cool/Vix-4800" alt="Leetcode Stats"/>
 </p>
