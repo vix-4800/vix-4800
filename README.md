@@ -1,67 +1,81 @@
-<h1 align="center">Hi, I'm Anton 👋</h1>
-<h3 align="center">Full-Stack Developer — PHP / Laravel / Vue</h3>
-
-<p align="center">Building robust backends with Laravel, beautiful frontends with Vue/Nuxt, and efficient dev environments with Docker & Linux</p>
-
-## Tech Stack
-
-### Backend
+<h1 align="center">Hey, I'm Anton 👋</h1>
+<h3 align="center">Full-Stack Developer — PHP ▸ Laravel ▸ Vue/Nuxt</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-	<img src="https://img.shields.io/badge/Yii2-00559C?style=for-the-badge&logo=yii&logoColor=white" alt="Yii2"/>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-	<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
-	<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
-	<img src="https://img.shields.io/badge/PHPUnit-6C2E91?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+	Building robust back-ends with Laravel, beautiful front-ends with Vue/Nuxt, <br/>
+	and shipping everything in efficient Dockerized environments
 </p>
 
-### Frontend
+<h2 align="center">Tech Stack</h2>
+
+<details open>
+<summary>Backend</summary>
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" title="Laravel"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="45" alt="Yii2" title="Yii2"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45" alt="Symfony" title="Symfony"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" title="Redis"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
+</p>
+</details>
+
+<details open>
+<summary>Frontend</summary>
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" title="TailwindCSS"/>    
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" title="Bootstrap"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" title="Vue.js"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" height="45" alt="Nuxt" title="Nuxt"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite" title="Vite"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="45" alt="Axios" title="Axios"/>    
+</p>
+</details>
+
+<details open>
+<summary>DevOps</summary>
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" title="Bash"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" alt="Nginx" title="Nginx"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub Actions" title="GitHub Actions"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="45" alt="Vagrant" title="Vagrant"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="Prometheus" title="Prometheus"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana" title="Grafana"/>   
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" height="45" alt="ProxMox" title="ProxMox"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="45" alt="Portainer" title="Portainer"/>   
+</p>
+</details>
+
+<details open>
+<summary>Tools</summary>
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" title="Postman"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="45" alt="Composer" title="Composer"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="NPM" title="NPM"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="45" alt="ESLint" title="ESLint"/>
+</p>
+</details>
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-	<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
-	<img src="https://img.shields.io/badge/Pinia-2E7D32?style=for-the-badge&logo=pinia&logoColor=white" alt="Pinia"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula&margin-w=10&margin-h=10" alt="Trophies" />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=vix-4800&show_icons=true&theme=dracula&hide=issues&count_private=true" alt="GitHub Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vix-4800&layout=compact&theme=dracula" alt="Top Langs"/>
 </p>
 
-### DevOps & Tools
+<h2 align="center">LeetCode</h2>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-	<img src="https://img.shields.io/badge/Docker--Compose-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
-	<img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-	<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-	<img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-### In Progress / Learning
-
-<p align="center">
-	<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=vix-4800&theme=dracula&margin-w=10&margin-h=10" alt="profile trophies" />
-	<img src="https://github-readme-stats.vercel.app/api?username=vix-4800&show_icons=true&theme=dracula&hide=issues&count_private=true" alt="GitHub stats"/>
-</p>
-
-## Leetcode
-
-<p align="center">
-	<img src="https://leetcard.jacoblin.cool/Vix-4800" alt="Leetcode Stats"/>
+	<img src="https://leetcard.jacoblin.cool/Vix-4800" alt="LeetCode Stats"/>
 </p>
