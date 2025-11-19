@@ -80,6 +80,15 @@
 <h2 align="center">WakaTime</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP          34 hrs 45 mins  █████████████▒░░░░░░░░░░░   52.86 %
+JSON         8 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+Other        6 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Markdown     6 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+XML          3 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">LeetCode</h2>
