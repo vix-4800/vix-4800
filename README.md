@@ -90,9 +90,3 @@ Other                      2 hrs 59 mins         █▒░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<h2 align="center">LeetCode</h2>
-
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/Vix-4800" alt="LeetCode Stats"/>
-</p>
